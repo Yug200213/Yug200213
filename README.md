@@ -40,44 +40,6 @@ Hello, my name is Yug Patel, a Machine Learning Engineer with 2+ years of experi
 <h1 align="center">Hello, I'm Yug Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
 
-## 🚀 About Me
-
-<!-- I have consistently demonstrated the ability to perform effectively under pressure while managing multiple complex tasks simultaneously. I have a proven track record of achieving success in these challenging environments and approach each day with enthusiasm for learning and discovering new opportunities. My technical skills include a solid understanding of *Python, **MYSQL, **Django, **Flask, **Keras, **TensorFlow, and **PyTorch*. I possess expertise in working on intricate, medium-sized, and large-scale projects, and am able to work independently while also possessing strong communication skills. Additionally, I have a basic knowledge of integrating with back-end systems. -->
-
-Hello, my name is Yug Patel, a Machine Learning Engineer with 2+ years of experience in developing ML models. I am currently pursuing an advanced diploma in Software Engineering Technology - Artificial Intelligence. I am proficient in *Neural Networks, **Unsupervised, and **Supervised Learning, and have experience with **Web Development* and *Distributed Storage Systems*. I am passionate about using my skills to make a positive impact in the field of AI. I possess strong interpersonal, problem-solving, and leadership skills, and I am confident that my skills and experience make me a valuable asset to any organization.
-
-- Languages :- *Python | R | SQL | Tableau | AWS | TensorFlow/Keras | Numpy/Pandas/Matplotlib/Seaborn/Sci-Kit learn | Flask | Streamlit | C | Git | HTML/CSS | Microsoft PowerBI*
-
-- I aspire to be part of a team that shares my vision of utilizing data to bring about significant changes in the world. This team should consist of individuals who are passionate about revolutionizing the way data is used and who share similar values and goals as mine.
-
-## 💪🏻 My Strengths
-- Mastered mathematical skills supported by enhanced algorithmic knowledge and logics of Machine Learning.
-- Optimized Supervised Learning algorithms by overcoming complexities like Overfitting and Underfitting to build end-to-end Supervised Learning Projects.
-- Built Unsupervised and Reinforcement Learning models using data clustering, expectation-maximization algorithms, and the Gaussian mixture models.
-- Designed Artificial Neural Networks using McCulloch-Pitts, Perceptron models and Multi-Layer Perceptron (MLP) networks using Keras and TensorFlow.
-
-## 🛠 Tech Stack
-
-![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![MySql](https://img.shields.io/badge/MySql-323330?style=for-the-badge&logo=MySql&logoColor=F7DF1E)
-![Keras](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)
-![Tensorflow](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)
-![Scikit-learn](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00C7B7?style=for-the-badge&logo=Docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-00C7B7?style=for-the-badge&logo=Flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-00C7B7?style=for-the-badge&logo=Django&logoColor=white)
-
-
 ## 📽 Projects
 ## 1. Bicycle Theft (Toronto Police).
 
