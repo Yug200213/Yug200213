@@ -37,8 +37,6 @@ Hello, my name is Yug Patel, a Machine Learning Engineer with 2+ years of experi
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h1 align="center">Hello, I'm Yug Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
-<h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
 
 ## 📽 Projects
 ## 1. Bicycle Theft (Toronto Police).
